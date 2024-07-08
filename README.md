@@ -3,7 +3,7 @@
   <a href="https://github.com/Vinteum-Software/integration-crm-hubspot-contacts/blob/main/project_logo.png"><img src="https://github.com/Vinteum-Software/integration-crm-hubspot-contacts/blob/main/project_logo.png" alt="CRM Hubspot" width="80"></a>
   <a href="https://github.com/gabrielpfs/integration_social_platform_discord/assets/88781022/175e7074-ed88-4f77-9602-915e7eb60528"><img src="https://github.com/gabrielpfs/integration_social_platform_discord/assets/88781022/175e7074-ed88-4f77-9602-915e7eb60528" alt="CRM Hubspot" width="80"></a>
   <br>
-  Documentation Github Project Integration
+  Documentation Discord Project Integration
   <br>
 </h1>
 
