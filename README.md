@@ -7,9 +7,6 @@
   <br>
 </h1>
 
-<a href="https://github.com/Vinteum-Software/integration_collaboration_airtable/assets/88781022/f2805712-3a35-49de-b95b-4c3e5e266392"><img src="https://github.com/Vinteum-Software/integration_collaboration_airtable/assets/88781022/f2805712-3a35-49de-b95b-4c3e5e266392" width="80"></a>
-  <br>
-
 # Integration Social Platform Discord
 
 ## Overview
