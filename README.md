@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/Vinteum-Software/integration-crm-hubspot-contacts/blob/main/project_logo.png"><img src="https://github.com/Vinteum-Software/integration-crm-hubspot-contacts/blob/main/project_logo.png" alt="CRM Hubspot" width="80"></a>
-  <a href="https://github.com/gabrielpfs/integration_social_platform_discord/assets/88781022/175e7074-ed88-4f77-9602-915e7eb60528"><img src="https://github.com/gabrielpfs/integration_social_platform_discord/assets/88781022/175e7074-ed88-4f77-9602-915e7eb60528" alt="CRM Hubspot" width="80"></a>
+  <a href="https://github.com/WealthInsight/integration_social_platform_discord/assets/88781022/ba4b590d-6bd9-44b7-8589-13d1caef550e"><img src="https://github.com/WealthInsight/integration_social_platform_discord/assets/88781022/ba4b590d-6bd9-44b7-8589-13d1caef550e" alt="discord" width="70"></a>
   <br>
   Documentation Discord Project Integration
   <br>
